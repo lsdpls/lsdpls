@@ -1,9 +1,10 @@
 # Hi there 👋 I`m Danila
+<img align='right' src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="330">  
+
 <a href="https://t.me/lsd_pls">
    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
   
-<img align='right' src="https://media.giphy.com/media/smGCEo5zsAXtK4bqAT/giphy.gif" width="330">  
 
 ## About me
 * 🌍 I'm based in Saint-Petersburg
