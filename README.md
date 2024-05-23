@@ -27,9 +27,12 @@
 <p align="left">
   <a href="https://www.google.com" target="_blank" rel="noreferrer" title="Docker"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /></a>
   <a href="https://www.google.com" target="_blank" rel="noreferrer" title="Kafka"><img src="https://img.shields.io/badge/Kafka-000?style=for-the-badge&logo=apachekafka" alt="Kafka" /></a>
+   <a href="https://www.google.com" target="_blank" rel="noreferrer" title="Postman"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+   <a href="https://www.google.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="https://www.google.com" target="_blank" rel="noreferrer" title="Git"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
-  <a href="https://www.google.com" target="_blank" rel="noreferrer" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.google.com" target="_blank" rel="noreferrer" title="Postman"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
+  <a href="https://www.google.com" target="_blank" rel="noreferrer" title="GitLab"><img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+  
+  
 </p>
 
 
