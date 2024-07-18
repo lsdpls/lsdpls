@@ -31,6 +31,7 @@
 
 <p align="left">
   <a href="https://www.google.com" target="_blank" rel="noreferrer" title="Prometheus"><img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white" alt="Prometheus" /></a>
+     <a href="https://www.google.com" target="_blank" rel="noreferrer" title="Jaeger"><img src="https://img.shields.io/badge/jaeger-000.svg?style=for-the-badge&logo=jaeger&logoColor=white" alt="Jaeger" /></a>
   <a href="https://www.google.com" target="_blank" rel="noreferrer" title="Swagger"><img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white" alt="Swagger" /></a>
    <a href="https://www.google.com" target="_blank" rel="noreferrer" title="Postman"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /></a>
 </p>
