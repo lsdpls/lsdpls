@@ -7,7 +7,8 @@
   
 
 ## About me
-* 🌍 I'm based in Saint-Petersburg
+* 🧑‍💻 I`m a Software Engineer, currently I work as a backend engineer using Golang
+* 🌍 I'm based in Moscow
 * 🎓 Bachelor's Degree in Computer Science, Saint Petersburg State University (Fundamental Informatics and Information Technologies)
 * 💬 I speak Russian (native), English (B2)
   
